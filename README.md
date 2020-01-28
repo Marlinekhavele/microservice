@@ -6,6 +6,6 @@
 
 #### open port 5000
 
-#### To see this message like the image below
 
-![alt test](mic.jpg)
+
+![alt text](mic.png "screenshot  output of the service")
